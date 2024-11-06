@@ -31,6 +31,20 @@
             <div class="gallery-area gallery-popup ptb-100">
                <div class="container">
                   <div class="row justify-content-center">
+
+                  <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/DSC_2346.JPG" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/DSC_2346.JPG">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
                      
 
                       <div class="col-lg-4 col-md-6">

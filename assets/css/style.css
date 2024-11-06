@@ -2034,3 +2034,7 @@ Blog Area Style
           transform: scaleY(1);
 }
 /*# sourceMappingURL=style.css.map */
+
+.blog-area .studys-area .single-study img{
+  width: 100%;
+}
