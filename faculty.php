@@ -215,49 +215,6 @@
            
 
 
-                  <div class="col-lg-4 col-md-6">
-                  <div class="single-team-member">
-                     <a href="prathibha.php"><img src="assets/images/team/Dr-Prathibha-M-Patel.jpg" alt="Dr Prathibha M Patel"></a>
-
-                     <div class="team-content">
-                        <div class="team-social" style="display:none">
-                           <a href="#" class="control">
-                              <i class="ri-share-fill"></i>
-                           </a>
-
-                           <ul>
-                              <li>
-                                 <a href="https://www.facebook.com/" target="_blank">
-                                    <i class="ri-facebook-fill"></i>
-                                 </a>
-                              </li>
-                              <li>
-                                 <a href="https://www.instagram.com/" target="_blank">
-                                    <i class="ri-instagram-line"></i>
-                                 </a>
-                              </li>
-                              <li>
-                                 <a href="https://www.linkedin.com/" target="_blank">
-                                    <i class="ri-linkedin-fill"></i>
-                                 </a>
-                              </li>
-                              <li>
-                                 <a href="https://twitter.com/" target="_blank">
-                                    <i class="ri-twitter-fill"></i>
-                                 </a>
-                              </li>
-                           </ul>
-                        </div>
-
-                        <div class="team-name">
-                           <h3>Dr. Prathibha M. Patel</h3>
-                           <span>Adjunct Faculty</span>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-
-
 
                <!-- <div class="col-12">
                   <div class="pagination-area">
