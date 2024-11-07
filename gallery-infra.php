@@ -177,7 +177,7 @@
          
                            <div class="gallery-item-content">
                               <div class="gallery-link">
-                                 <a href="assets/images/Gallery-Infra/Gallery-Infra/MBA-MIT-Kundapura-Campus-11.jpg">
+                                 <a href="assets/images/Gallery-Infra/MBA-MIT-Kundapura-Campus-11.jpg">
                                     <i class="ri-add-fill"></i>
                                  </a>
                               </div>

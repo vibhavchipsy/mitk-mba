@@ -34,11 +34,325 @@
 
                   <div class="col-lg-4 col-md-6">
                         <div class="single-gallery">
-                           <img src="assets/images/gallery/DSC_2346.JPG" alt="MBA MITK Campus Job Fair">
+                           <img src="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg" alt="MBA MITK Campus Job Fair">
          
                            <div class="gallery-item-content">
                               <div class="gallery-link">
-                                 <a href="assets/images/gallery/DSC_2346.JPG">
+                                 <a href="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     
+
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+                     
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     
+
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+                     
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/MBA-MITK-Campus-Job-Fair.jpg">
                                     <i class="ri-add-fill"></i>
                                  </a>
                               </div>

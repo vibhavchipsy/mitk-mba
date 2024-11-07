@@ -2038,3 +2038,8 @@ Blog Area Style
 .blog-area .studys-area .single-study img{
   width: 100%;
 }
+.gallery-area .single-gallery img{
+  height: 233px;
+  width: 350px;
+  object-fit: cover;
+}
