@@ -81,7 +81,7 @@
 
             <div class="col-lg-4 col-md-6">
                   <div class="single-team-member">
-                     <a href="amruthmala.php"><img src="assets/images/team/dr suchi.png" alt="Ms Amruthmala Naren MBA MITK Faculty"></a>
+                     <a href="suchithra.php"><img src="assets/images/team/dr suchi.png" alt="Ms Amruthmala Naren MBA MITK Faculty"></a>
 
                      <div class="team-content">
                         <div class="team-social" style="display:none">
@@ -166,7 +166,7 @@
 
             <div class="col-lg-4 col-md-6">
                   <div class="single-team-member">
-                     <a href="amruthmala.php"><img src="assets/images/team/poornima.png" alt="Ms Amruthmala Naren MBA MITK Faculty"></a>
+                     <a href="poornima.php"><img src="assets/images/team/poornima.png" alt="Ms Amruthmala Naren MBA MITK Faculty"></a>
 
                      <div class="team-content">
                         <div class="team-social" style="display:none">

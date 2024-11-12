@@ -53,6 +53,7 @@
                      <div class="col-lg-2 col-md-6"></div>
                   </div>
                   <h3>My Profile</h3>
+                  <div class="table-container-div">
                   <table class="table table-bordered">
                      <tr>
                         <td><b>Designation</b></td>
@@ -101,28 +102,45 @@
                        <tr>
                         <td><b>Experience (in Years)</b></td>
                         <td>
-                           1 years
+                           3 years
 
                         </td>
                      </tr>
                       <tr>
                         <td><b>Certifications & Industry Interactions</b></td>
                         <td>
+                           <b>Certifications</b><br>
                            Certificates on Field Services & Intercultural Learning <br>
                            Contemporary Issues in Stock market, Finance & Taxation<br>
                            Online National Quiz Carnival-2.0 (Business Quiz)<br>
-                           Online National Quiz Carnival-2.0 (English Quiz)<br>
-
+                           Online National Quiz Carnival-2.0 (English Quiz)
+                           <br><br>
+                           <b>Workshops/FDP/STTP/Conferences Attended</b><br>
+                           <li>Attended 5 days on “SOFT SKILL” Training organized by Ramakrishna Hegde skill development center of Konkan Railway Academy Udupi.</li>
+                           <li>“Career Opportunity: The Essence of Future Readiness”-2020</li>
+                           <li>Webinar Overview of Securities Market and Latest Development</li>
+                           <li>Universal Human Values &amp; Importance of Mental Health -2021</li>
+                           <li>Overview of Securities Market and Latest Development -2021</li>
+                           <li>Short Term Training Programme (STTP) for faculty on Innovative Approaches in Teaching pedagogy</li>
+                           <li>Contemporary Issues in Stock market, Finance &amp; Taxation</li>
+                           <li>Webinar Overview of Securities Market and Latest Development</li>
+                           <li>Universal Human Values &amp; Importance of Mental Health</li>
+                           <li>Mastering MS office Applications: “Word and PPT”</li>
                         </td>
                      </tr>
                      <tr>
                         <td><b>Area of Interest</b></td>
                         <td>
+                              Accounting for Manager<br>
+                              Personal Growth &amp; Interpersonal Skill<br>
+                              Investment Management<br>
+                              Managerial Economics<br>
+                              Principles of Management and Organisation Behaviour<br>
                               Banking and Finance <br>
                               Business Strategies <br>
-                              Management and Epics <br>
+                              Management and Epics <br><br>
 
-                           <b>Personal Interest:</b>
+                           <b>Personal Interest:</b><br>
                            Classical Dance<br>
                            Writing Story<br>
                            Reading Books<br>
@@ -155,8 +173,55 @@
 
                         </td>
                      </tr>
+
+                     <tr>
+                        <td><b>Paper Published</b></td>
+                        <td>
+                        “Empowering Farmers, Enriching Lives: The One Stop Solution for Agricultural Assistance”, 
+                        Journal of Advanced Zoology, Scopus Indexed Q4 Journal DOI: <a href="http://jazindia.com/index.php/jaz/article/view/697" target="_blank">10.17762/jaz.v44i3.697</a> Part of ISSN: <a href="https://portal.issn.org/resource/ISSN/0253-7214" target="_blank">0253-7214</a>
+                     </tr>
+
+                     <tr>
+                        <td><b>Patent filed/Published/Granted</b></td>
+                        <td>
+                           - 
+                     </tr>
+
+                     <tr>
+                        <td><b>Book/ Book Chapter Published</b></td>
+                        <td>
+                           - 
+                     </tr>
+
+                     <tr>
+                        <td><b>Professional Membership</b></td>
+                        <td>
+                           - 
+                     </tr>
+
+                     <tr>
+                        <td><b>Additional Information</b></td>
+                        <td>
+                        <b>PAPER PRESENTATION</b> 
+                        <li>Employee Engagement in Manufacturing and Service Sector.</li>
+                        <br>
+                        <b>PROJECT GUIDED</b>
+                        <li>Guided KCST Project - Empowering Farmers, Enriching Lives: The One-Stop Solution for Agricultural Assistance</li>
+                        <br>
+                        <b>Department Responsibilities</b>
+                        <li>Cultural Co-Ordinator</li>
+
+
+                     </tr>
+
+                     <tr>
+                        <td><b>Achievements if any</b></td>
+                        <td>
+                           - 
+                     </tr>
                     
                   </table>
+                  </div>
                </div>
             </section>
              <?php

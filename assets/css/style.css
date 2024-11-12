@@ -2043,3 +2043,6 @@ Blog Area Style
   width: 350px;
   object-fit: cover;
 }
+.table-container-div{
+  overflow-x: scroll;
+}
