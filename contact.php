@@ -22,7 +22,7 @@
                      <ul>
                         <li>
                            <a href="index.php">
-                              Home 
+                              Home
                            </a>
                         </li>
 

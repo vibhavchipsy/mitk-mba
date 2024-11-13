@@ -36,10 +36,8 @@
             </div>
 
             <div class="row justify-content-md-center">
-              
 
-
-               <div class="col-lg-4 col-md-6">
+            <div class="col-lg-4 col-md-6">
                   <div class="single-team-member">
                      <a href="amruthmala.php"><img src="assets/images/team/MITK-Amruth-Mala-MBA.jpg" alt="Ms Amruthmala Naren MBA MITK Faculty"></a>
 
@@ -81,7 +79,48 @@
                   </div>
                </div>
 
+            <div class="col-lg-4 col-md-6">
+                  <div class="single-team-member">
+                     <a href="suchithra.php"><img src="assets/images/team/dr suchi.png" alt="Ms Amruthmala Naren MBA MITK Faculty"></a>
 
+                     <div class="team-content">
+                        <div class="team-social" style="display:none">
+                           <a href="#" class="control">
+                              <i class="ri-share-fill"></i>
+                           </a>
+
+                           <ul>
+                              <li>
+                                 <a href="https://www.facebook.com/" target="_blank">
+                                    <i class="ri-facebook-fill"></i>
+                                 </a>
+                              </li>
+                              <li>
+                                 <a href="https://www.instagram.com/" target="_blank">
+                                    <i class="ri-instagram-line"></i>
+                                 </a>
+                              </li>
+                              <li>
+                                 <a href="https://www.linkedin.com/" target="_blank">
+                                    <i class="ri-linkedin-fill"></i>
+                                 </a>
+                              </li>
+                              <li>
+                                 <a href="https://twitter.com/" target="_blank">
+                                    <i class="ri-twitter-fill"></i>
+                                 </a>
+                              </li>
+                           </ul>
+                        </div>
+
+                        <div class="team-name">
+                           <h3> Dr. Suchitra
+                           </h3>
+                           <span>HOD & Associate Professor</span>
+                        </div>
+                     </div>
+                  </div>
+               </div>
 
                <div class="col-lg-4 col-md-6">
                   <div class="single-team-member">
@@ -119,18 +158,15 @@
 
                         <div class="team-name">
                            <h3>Mrs. Thilaka Laxmi</h3>
-                           <span>Senior Assistant Professor</span>
+                           <span>Assistant Professor</span>
                         </div>
                      </div>
                   </div>
                </div>
 
-
-
-
-               <div class="col-lg-4 col-md-6">
+            <div class="col-lg-4 col-md-6">
                   <div class="single-team-member">
-                    <a href="venkatesh.php"> <img src="assets/images/team/MITK-Venkatesha.jpg" alt="Venkatesh Shetty MBA MITK Faculty"></a>
+                     <a href="poornima.php"><img src="assets/images/team/poornima.png" alt="Ms Amruthmala Naren MBA MITK Faculty"></a>
 
                      <div class="team-content">
                         <div class="team-social" style="display:none">
@@ -163,12 +199,71 @@
                         </div>
 
                         <div class="team-name">
-                           <h3>Mr. Venkatesh Shetty</h3>
-                           <span>Assistant Professor</span>
+                           <h3> Prof. Poornima Shetty
+                           </h3>
+                           <span> Assistant Professor</span>
                         </div>
                      </div>
                   </div>
                </div>
+
+               <div class="col-lg-4 col-md-6">
+                  <div class="single-team-member">
+                     <a href="Neil Gladwin.php"><img src="assets/images/team/neil.png" alt="Ms Amruthmala Naren MBA MITK Faculty"></a>
+
+                     <div class="team-content">
+                        <div class="team-social" style="display:none">
+                           <a href="#" class="control">
+                              <i class="ri-share-fill"></i>
+                           </a>
+
+                           <ul>
+                              <li>
+                                 <a href="https://www.facebook.com/" target="_blank">
+                                    <i class="ri-facebook-fill"></i>
+                                 </a>
+                              </li>
+                              <li>
+                                 <a href="https://www.instagram.com/" target="_blank">
+                                    <i class="ri-instagram-line"></i>
+                                 </a>
+                              </li>
+                              <li>
+                                 <a href="https://www.linkedin.com/" target="_blank">
+                                    <i class="ri-linkedin-fill"></i>
+                                 </a>
+                              </li>
+                              <li>
+                                 <a href="https://twitter.com/" target="_blank">
+                                    <i class="ri-twitter-fill"></i>
+                                 </a>
+                              </li>
+                           </ul>
+                        </div>
+
+                        <div class="team-name">
+                           <h3> Prof. Neil Gladwin Dlima 
+                           </h3>
+                           <span> Assistant Professor</span>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+
+              
+
+
+              
+
+
+
+               
+
+
+
+
+              
 
                       
                      <div class="col-lg-4 col-md-6">
@@ -212,50 +307,99 @@
                            </div>
                         </div>
                      </div>
-           
 
 
-                  <div class="col-lg-4 col-md-6">
-                  <div class="single-team-member">
-                     <a href="prathibha.php"><img src="assets/images/team/Dr-Prathibha-M-Patel.jpg" alt="Dr Prathibha M Patel"></a>
 
-                     <div class="team-content">
-                        <div class="team-social" style="display:none">
-                           <a href="#" class="control">
-                              <i class="ri-share-fill"></i>
-                           </a>
 
-                           <ul>
-                              <li>
-                                 <a href="https://www.facebook.com/" target="_blank">
-                                    <i class="ri-facebook-fill"></i>
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-team-member">
+                           <a href="Nagaveni.php"><img src="assets/images/team/Nagaveni.png" alt="Ms Kavya MIT Kundapura MBA MITK Faculty"></a>
+
+                           <div class="team-content">
+                              <div class="team-social" style="display:none">
+                                 <a href="#" class="control">
+                                    <i class="ri-share-fill"></i>
                                  </a>
-                              </li>
-                              <li>
-                                 <a href="https://www.instagram.com/" target="_blank">
-                                    <i class="ri-instagram-line"></i>
-                                 </a>
-                              </li>
-                              <li>
-                                 <a href="https://www.linkedin.com/" target="_blank">
-                                    <i class="ri-linkedin-fill"></i>
-                                 </a>
-                              </li>
-                              <li>
-                                 <a href="https://twitter.com/" target="_blank">
-                                    <i class="ri-twitter-fill"></i>
-                                 </a>
-                              </li>
-                           </ul>
-                        </div>
 
-                        <div class="team-name">
-                           <h3>Dr. Prathibha M. Patel</h3>
-                           <span>Adjunct Faculty</span>
+                                 <ul>
+                                    <li>
+                                       <a href="https://www.facebook.com/" target="_blank">
+                                          <i class="ri-facebook-fill"></i>
+                                       </a>
+                                    </li>
+                                    <li>
+                                       <a href="https://www.instagram.com/" target="_blank">
+                                          <i class="ri-instagram-line"></i>
+                                       </a>
+                                    </li>
+                                    <li>
+                                       <a href="https://www.linkedin.com/" target="_blank">
+                                          <i class="ri-linkedin-fill"></i>
+                                       </a>
+                                    </li>
+                                    <li>
+                                       <a href="https://twitter.com/" target="_blank">
+                                          <i class="ri-twitter-fill"></i>
+                                       </a>
+                                    </li>
+                                 </ul>
+                              </div>
+
+                              <div class="team-name">
+                                 <h3>Ms. Nagaveni </h3>
+                                 <span>Assistant Professor</span>
+                              </div>
+                           </div>
                         </div>
                      </div>
-                  </div>
-               </div>
+
+
+
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-team-member">
+                           <a href="Chaithali.php"><img src="assets/images/team/CHAITHALI.png" alt="Ms Kavya MIT Kundapura MBA MITK Faculty"></a>
+
+                           <div class="team-content">
+                              <div class="team-social" style="display:none">
+                                 <a href="#" class="control">
+                                    <i class="ri-share-fill"></i>
+                                 </a>
+
+                                 <ul>
+                                    <li>
+                                       <a href="https://www.facebook.com/" target="_blank">
+                                          <i class="ri-facebook-fill"></i>
+                                       </a>
+                                    </li>
+                                    <li>
+                                       <a href="https://www.instagram.com/" target="_blank">
+                                          <i class="ri-instagram-line"></i>
+                                       </a>
+                                    </li>
+                                    <li>
+                                       <a href="https://www.linkedin.com/" target="_blank">
+                                          <i class="ri-linkedin-fill"></i>
+                                       </a>
+                                    </li>
+                                    <li>
+                                       <a href="https://twitter.com/" target="_blank">
+                                          <i class="ri-twitter-fill"></i>
+                                       </a>
+                                    </li>
+                                 </ul>
+                              </div>
+
+                              <div class="team-name">
+                                 <h3>Ms. Chaithali </h3>
+                                 <span>Assistant Professor</span>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+
+
+           
 
 
 

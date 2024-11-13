@@ -49,11 +49,11 @@
 
                       <div class="col-lg-4 col-md-6">
                         <div class="single-gallery">
-                           <img src="assets/images/Gallery-Infra/MBA-MIT-Kundapura-Campus-02.jpg" alt="MBA MITK Initiation towards Rural Development">
+                           <img src="assets/images/Gallery-Infra/MBA-MIT-Kundapura-Campus-02.png" alt="MBA MITK Initiation towards Rural Development">
          
                            <div class="gallery-item-content">
                               <div class="gallery-link">
-                                 <a href="assets/images/Gallery-Infra/MBA-MIT-Kundapura-Campus-02.jpg">
+                                 <a href="assets/images/Gallery-Infra/MBA-MIT-Kundapura-Campus-02.png">
                                     <i class="ri-add-fill"></i>
                                  </a>
                               </div>
@@ -177,7 +177,7 @@
          
                            <div class="gallery-item-content">
                               <div class="gallery-link">
-                                 <a href="assets/images/Gallery-Infra/Gallery-Infra/MBA-MIT-Kundapura-Campus-11.jpg">
+                                 <a href="assets/images/Gallery-Infra/MBA-MIT-Kundapura-Campus-11.jpg">
                                     <i class="ri-add-fill"></i>
                                  </a>
                               </div>
