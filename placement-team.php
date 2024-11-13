@@ -61,7 +61,7 @@
 
                <div class="col-lg-3 col-md-6">
                   <div class="single-team-member">
-                     <a href="thilaka-laxmi.php"><img src="assets/images/team/Thilaka-Laxmi.jpg" alt="Mrs. Thilaka Laxmi MBA MITK Faculty"></a>
+                     <a href="poornima.php"><img src="assets/images/team/poornima.png" alt="Mrs. Thilaka Laxmi MBA MITK Faculty"></a>
 
                      <div class="team-content">
                         <div class="team-social" style="display:none">
@@ -72,7 +72,7 @@
                         </div>
 
                         <div class="team-name">
-                           <h3>Mrs. Thilaka Laxmi</h3>
+                           <h3>Mrs. Poornima R. Shetty</h3>
                            <span>Assistant Professor - MBA</span>
                         </div>
                      </div>

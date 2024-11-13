@@ -43,11 +43,11 @@
                      </div>
                      <div class="col-lg-6 col-md-6">
                            <h3>Mrs. Thilaka Laxmi</h3>
-                           <h5 style="color:blue;">Senior Assistant Professor</h5>
+                           <h5 style="color:blue;"> Assistant Professor</h5>
                            <hr>
-                           <b><i class="ri-mail-line" style="color:#92210f;"></i>&nbsp;Email :</b> - <br>
+                           <b><i class="ri-mail-line" style="color:#92210f;"></i>&nbsp;Email :</b> thilakalaxmi@mitkundapura.com<br>
                            
-                           <b><i class="ri-phone-line" style="color:#92210f;"></i>&nbsp;Mobile : </b>-
+                           <!-- <b><i class="ri-phone-line" style="color:#92210f;"></i>&nbsp;Mobile : </b>- -->
                      </div>
                      <div class="col-lg-2 col-md-6"></div>
                   </div>
@@ -56,12 +56,12 @@
                      <tr>
                         <td><b>Designation</b></td>
                         <td>
-                            Senior Assistant Professor
+                            Assistant Professor
                         </td>
                      </tr>
                      <tr>
                         <td><b>Department</b></td>
-                        <td>Master of Business Administration</td>
+                        <td>Management Studies</td>
                      </tr>
                      <tr>
                         <td><b>Date of Birth</b></td>
@@ -74,7 +74,7 @@
                      <tr>
                         <td><b>Email ID</b></td>
                         <td>
-                           -
+                        thilakalaxmi@mitkundapura.com
                         </td>
                      </tr>
                      <tr>
@@ -97,8 +97,8 @@
                        <tr>
                         <td><b>Experience (in Years)</b></td>
                         <td>
-                          Industry(2 years)<br>
-                           Teaching(present)
+                         12 years<br>
+                           
 
                         </td>
                      </tr>
@@ -107,6 +107,19 @@
                         <td><b>Area of Interest</b></td>
                         <td>
                            Finance, HR, Banking and Investment 
+                           <br>
+                           Financial derivatives
+                           <br>
+                           Financial management
+                           <br>
+                           Managerial communication
+                           <br>
+                           Taxation
+                           <br>
+                           Risk and Insurance management
+                           <br>
+                           Entrepreneurship development
+
                         </td>
                      </tr>
 
@@ -144,7 +157,76 @@
 
                         </td>
                      </tr>
-                    
+
+
+                     <tr>
+                        <td><b>Certifications</b></td>
+                        <td>
+                              <b> FDP/Conferences attended:</b>
+                              <br>
+                              Five days FDP on Microsoft power BI data analysis conducted by ICT academy on 31 july 2023 to 4 aug 2023 at Alliance University.
+                              <br><br>
+                              Five days international faculty development program on Financial analytics using Python held from 11/12/2023 to 15/12/2023 organized by area of Finance and accounting, Alliance school of Business, Bangalore.
+                              <br><br>
+                              <b>Workshops:</b>
+                              <br>
+                              Three days International online Workshop on Basic statistical analysis and its interpretation using SPSS from 9/12/2023 to 11/12/2023 by Global institute of statistical solutions.
+                              <br><br>
+                              Three days International workshop on Mastering MS office application- Word and PPT from 21/12/2023 to 23/12/2023 organized by Global institute of statistical solutions.
+                              <br><br>
+                              <b>Paper Presented:</b>
+                              <br>
+                              Presented a paper on “Intellectual property rights and women entrepreneurship” organized by Paduva college of commerce and management.
+
+
+                        </td>
+                        </tr>
+
+                        <tr>
+                        <td><b>Paper Published</b></td>
+                        <td>
+                              NIL
+                        </td>
+                        </tr>
+
+                        <tr>
+                        <td><b>Patent filed/Published/Granted</b></td>
+                        <td>
+                              NIL
+                        </td>
+                        </tr>
+
+                        <tr>
+                        <td><b>Book/ Book Chapter Published</b></td>
+                        <td>
+                              NIL 
+                        </td>
+                        </tr>
+
+                        <tr>
+                        <td><b>Professional Membership</b></td>
+                        <td>
+                              NIL 
+                        </td>
+                        </tr>
+
+                        
+                        <tr>
+                        <td><b>Additional Information</b></td>
+                        <td>
+                             <b>Departmental responsibilities:</b>
+                             <br>
+                             Extension activity coordinator
+                             <br>
+                             Academic coordinator
+                             <br>
+                             Internal and external Evaluator
+
+                        </td>
+                        </tr>
+
+
+
                   </table>
                </div>
             </section>

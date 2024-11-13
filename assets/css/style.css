@@ -185,7 +185,7 @@ Banner Area Style
 }
 
 .banner-area.bg-1 {
-  background-image: url(../../assets/images/banner/MBA-MIT-Kundapura-Campus-02.jpg);
+  background-image: url(../../assets/images/banner/MBA-MIT-Kundapura-Campus-02.png);
 }
 
 .banner-area.bg-2 {
@@ -1540,7 +1540,7 @@ Counter Area Style
 Campus Experience Area Style
 ======================================================*/
 .campus-experience-area {
-  background-image: url(../../assets/images/campus-experience-bg.jpg);
+  background-image: url(../../assets/images/campus-experience-bg.png);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2045,4 +2045,9 @@ Blog Area Style
 }
 .table-container-div{
   overflow-x: scroll;
+  scrollbar-width: none; /* For Firefox */
+  -ms-overflow-style: none; /* For Internet Explorer and Edge */
+}
+.table-container-div::-webkit-scrollbar {
+  display: none; /* For Chrome, Safari, and Edge */
 }

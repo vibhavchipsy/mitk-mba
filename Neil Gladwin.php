@@ -39,14 +39,14 @@
                  <div class="row justify-content-md-center">
                      <div class="col-lg-4 col-md-6">
                         <div class="single-team-member">
-                           <img src="assets/images/team/poornima.png" alt="Ms Amruthmala Naren MBA MITK Faculty">
+                           <img src="assets/images/team/neil.png" alt="Ms Amruthmala Naren MBA MITK Faculty">
                         </div>
                      </div>
                      <div class="col-lg-6 col-md-6">
-                           <h3>Poornima R. Shetty</h3>
-                           <h5 style="color:blue;">Assistant Professor</h5>
+                           <h3> NEIL GLADWIN DLIMA </h3>
+                           <h5 style="color:blue;"> Assistant Professor</h5>
                            <hr>
-                           <b><i class="ri-mail-line" style="color:#92210f;"></i>&nbsp;Email :</b> poornima.shetty9052@gmail.com <br>
+                           <b><i class="ri-mail-line" style="color:#92210f;"></i>&nbsp;Email :</b>neil.dlima98@gmail.com<br>
                            <!-- <b><i class="ri-phone-line" style="color:#92210f;"></i>&nbsp;Mobile : </b> 9901724414 -->
                      </div>
                      <div class="col-lg-2 col-md-6"></div>
@@ -57,7 +57,7 @@
                      <tr>
                         <td><b>Designation</b></td>
                         <td>
-                          Assistant Professor
+                        Assistant Professor
                         </td>
                      </tr>
                      <tr>
@@ -75,7 +75,7 @@
                      <tr>
                         <td><b>Email ID</b></td>
                         <td>
-                        poornima.shetty9052@gmail.com<br>
+                        neil.dlima98@gmail.com.<br>
                         </td>
                      </tr>
                      <!-- <tr>
@@ -93,25 +93,26 @@
                      <tr>
                         <td><b>Educational Qualifications</b></td>
                         <td>
-                          MBA
+                        MBA (Marketing &amp; Human Resource)
                         </td>
                      </tr>
                        <tr>
                         <td><b>Experience (in Years)</b></td>
                         <td>
-                            - <br> 
+                         1 year<br> 
                         </td>
                      </tr>
                       <tr>
                         <td><b>Certifications</b></td>
                         <td>
-                             NIL
-                       </td>                                                                                                                            
+                             Attended One day FDP organized by Srinivas University, Pandeshwar, Mangalore in August 2023.
+                    </td>    
                      </tr>
                      <tr>
                         <td><b>Area of Interest</b></td>
                         <td>
-                         Statistics<br>Financial Management<br>Human Resource Management<br>Entrepreneurship Development
+                         Strategic Management<br>Marketing Management<br>Human Resource Management<br>
+                         Consumer Behaviour<br>Entrepreneurship Development
                          <!-- <b>Personal Interest:</b><br>
                            Organizing Events<br>Digital Marketing<br>Reading Novels<br>Cooking<br>Painting -->
                         </td>
@@ -146,7 +147,12 @@
                      </tr> -->
                      <tr>
                         <td><b>Paper Published</b></td>
-                        <td> NIL </td>
+                        <td>
+                        Employee perception and HR Practices and Its impact on Job Satisfaction published in Scopus Indexed Q2 journal, The International Conference on Business and Technology, April 19-20, 2024. <a href="https://link.springer.com/chapter/10.1007/978-3-031-67431-0_15" target="_blank">https://link.springer.com/chapter/10.1007/978-3-031-
+                        67431-0_15</a>
+                        <br><br>
+                        Digital Banking Units (DBUs) in Transition of Financial Institution- Gavesana Journal of Management, Volume 16| Issue 1|January-June 2023. ISSN No: 0975-4547
+                    </td>    
                     </tr>
                     <tr>
                         <td><b>Patentfiled/Published/Granted</b></td>
@@ -172,7 +178,8 @@
                     <tr>
                         <td><b>Additional Information</b></td>
                         <td>
-                            - 
+                        <a href="https://orcid.org/0009-0008-3597-1831" target="_blank">ORCID ID: - 0009-0008-3597-1831</a>
+
                         </td>
                     </tr>
                     

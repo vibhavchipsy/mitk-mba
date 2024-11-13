@@ -184,19 +184,19 @@
                      <tr>
                         <td><b>Patent filed/Published/Granted</b></td>
                         <td>
-                           - 
+                           NIL 
                      </tr>
 
                      <tr>
                         <td><b>Book/ Book Chapter Published</b></td>
                         <td>
-                           - 
+                           NIL 
                      </tr>
 
                      <tr>
                         <td><b>Professional Membership</b></td>
                         <td>
-                           - 
+                           NIL 
                      </tr>
 
                      <tr>
