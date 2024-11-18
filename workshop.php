@@ -81,6 +81,7 @@
                               </h3> -->
          
                               <p>Workshop On utilizing Google Sheets and Google Forms by Mr. Muralidhara K-Senior Faculty, Department of Computer Science, MITK.</p>
+                              <a href="https://drive.google.com/drive/folders/16AQy7UklCyESN2yjJR3GIGtSt0rkwTxH" target="_blank"> <strong> Click Here 🡭 </strong> to Open PDF Files </a>
                            </div>
                         </div>
                      </div>

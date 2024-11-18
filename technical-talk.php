@@ -55,6 +55,7 @@
                               </h3> -->
          
                               <p>"Millennial Revolution" Workshop on Investment Management By Mr. Sachin Koye - General Manager, Beereshwara Co-operative Society.</p>
+                              <a href="https://drive.google.com/drive/folders/1JW_MNoUSZ7OsccST6vtgqeRShBNPYgRG" target="_blank"> <strong> Click Here 🡭 </strong> to Open PDF Files </a>
                            </div>
                         </div>
                      </div>
