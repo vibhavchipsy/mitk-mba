@@ -72,7 +72,7 @@
                         </div>
 
                         <div class="team-name">
-                           <h3>Mrs. Poornima R. Shetty</h3>
+                           <h3>Ms. Poornima R. Shetty</h3>
                            <span>Assistant Professor - MBA</span>
                         </div>
                      </div>

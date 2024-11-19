@@ -65,14 +65,14 @@
                         <td><b>Department</b></td>
                         <td>Department of Management Studies</td>
                      </tr>
-                     <tr>
+                     <!-- <tr>
                         <td><b>Date of Birth</b></td>
                         <td>10/08/1996</td>
                      </tr>
                      <tr>
                         <td><b>Date of joining</b></td>
                         <td>05/11/2020</td>
-                     </tr>
+                     </tr> -->
                      <tr>
                         <td><b>Email ID</b></td>
                         <td>
