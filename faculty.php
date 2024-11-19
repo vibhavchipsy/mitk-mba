@@ -199,7 +199,7 @@
                         </div>
 
                         <div class="team-name">
-                           <h3> Prof. Poornima Shetty
+                           <h3> Ms. Poornima Shetty
                            </h3>
                            <span> Assistant Professor</span>
                         </div>
@@ -346,7 +346,7 @@
                               </div>
 
                               <div class="team-name">
-                                 <h3>Ms. Nagaveni </h3>
+                                 <h3>Mrs. Nagaveni </h3>
                                  <span>Assistant Professor</span>
                               </div>
                            </div>

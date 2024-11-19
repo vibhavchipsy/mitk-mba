@@ -81,6 +81,8 @@
                               </h3> -->
          
                               <p>Industrial Visit to SOUTH INDIA PAPER MILLS, KSIC, MYSORE SANDAL WOOD FACTORY.</p>
+                              <a href="https://drive.google.com/drive/folders/1xGITvX9RggECMx8PWkTAcfihFdpc7j-O" target="_blank"> <strong> Click Here 🡭 </strong> to Open PDF Files </a>
+
                            </div>
                         </div>
                      </div>
