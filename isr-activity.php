@@ -107,6 +107,7 @@
                               </h3> -->
          
                               <p>"One fine day with the special kids, blessed our day"-ISR Initiative by students of Management studies. A day well-spent at Manasa Jyothi, a home for mentally challenged children. An entire day was spent with the children engaging them with fun games and distributing fruits, biscuits and eggs to the children.</p>
+                              <a href="https://drive.google.com/drive/folders/1jwOKqM2AA2GBRoARQjCEPf_QLT4BwLLa" target="_blank"> <strong> Click Here 🡭 </strong> to Open PDF Files </a>
                            </div>
                         </div>
                      </div>
