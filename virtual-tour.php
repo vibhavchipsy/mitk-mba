@@ -37,7 +37,7 @@
 					<img src="assets/images/banner/MIT_Kundapura-Campus-04.jpg" alt="MIT Kundapura Campus">
 
 					<div class="video-button">
-						<a href="https://www.youtube.com/watch?v=uWC2rcC-7CI" class="popup-youtube video-btn">
+						<a href="assets/videos/MITK_INFRASTRUCTURE_VIDEO.mp4" class="popup-youtube video-btn">
 							<i class="flaticon-play-button"></i>
 						</a>
 					</div>
