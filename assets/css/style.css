@@ -74,6 +74,7 @@ Every Pages Imported Style
 @import url(../../assets/css/pages-css/page-title.css);
 @import url(../../assets/css/pages-css/others.css);
 @import url(../../assets/css/pages-css/footer.css);
+
 /*
 Search Modal Area Style
 ======================================================*/
@@ -92,11 +93,11 @@ Search Modal Area Style
   width: 100%;
   height: 100%;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -274,8 +275,8 @@ Banner Area Style
   display: inline-flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-flow: column nowrap;
-          flex-flow: column nowrap;
+  -ms-flex-flow: column nowrap;
+  flex-flow: column nowrap;
   position: absolute;
   top: 26%;
   right: -24px;
@@ -284,7 +285,7 @@ Banner Area Style
   padding: 0;
   margin: 0;
   -webkit-transform: rotate(-180deg);
-          transform: rotate(-180deg);
+  transform: rotate(-180deg);
 }
 
 .banner-area .social-link li {
@@ -294,7 +295,7 @@ Banner Area Style
 .banner-area .social-link li a {
   display: block;
   -webkit-transform: rotate(90deg);
-          transform: rotate(90deg);
+  transform: rotate(90deg);
   color: var(--white-color);
   font-weight: 500;
   text-transform: capitalize;
@@ -380,11 +381,11 @@ Banner Area Style
   top: 0;
   left: 0;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -415,7 +416,7 @@ Banner Area Style
   margin-bottom: 25px;
   color: var(--heading-color);
   -webkit-animation: 0.6s fadeInUpBig;
-          animation: 0.6s fadeInUpBig;
+  animation: 0.6s fadeInUpBig;
   font-weight: 900;
   line-height: 1.3;
 }
@@ -425,20 +426,20 @@ Banner Area Style
   max-width: 750px;
   font-size: 18px;
   -webkit-animation: 0.9s fadeInUpBig;
-          animation: 0.9s fadeInUpBig;
+  animation: 0.9s fadeInUpBig;
   color: var(--heading-color);
 }
 
 .banner-content .banner-btn {
   -webkit-animation: 1s fadeInUpBig;
-          animation: 1s fadeInUpBig;
+  animation: 1s fadeInUpBig;
   margin-top: 40px;
 }
 
 .banner-content .courses-link {
   margin-top: 100px;
   -webkit-animation: 1s fadeInUpBig;
-          animation: 1s fadeInUpBig;
+  animation: 1s fadeInUpBig;
 }
 
 .banner-content .courses-link a {
@@ -462,7 +463,7 @@ Banner Area Style
 
 .banner-img {
   -webkit-animation: 1s fadeInUpBig;
-          animation: 1s fadeInUpBig;
+  animation: 1s fadeInUpBig;
 }
 
 /*
@@ -614,14 +615,16 @@ Study Area Style
   right: 7px;
   top: -95px;
   -webkit-transform: translateY(-30px);
-          transform: translateY(-30px);
+  transform: translateY(-30px);
 }
 
-.study-area .owl-theme .owl-nav .owl-prev, .study-area .owl-theme .owl-nav .owl-next {
+.study-area .owl-theme .owl-nav .owl-prev,
+.study-area .owl-theme .owl-nav .owl-next {
   margin: 0 5px;
 }
 
-.study-area .owl-theme .owl-nav .owl-prev i, .study-area .owl-theme .owl-nav .owl-next i {
+.study-area .owl-theme .owl-nav .owl-prev i,
+.study-area .owl-theme .owl-nav .owl-next i {
   font-size: 20px;
   color: var(--white-color);
   border: 1px solid var(--white-color);
@@ -633,7 +636,8 @@ Study Area Style
   transition: var(--transition);
 }
 
-.study-area .owl-theme .owl-nav .owl-prev:hover i, .study-area .owl-theme .owl-nav .owl-next:hover i {
+.study-area .owl-theme .owl-nav .owl-prev:hover i,
+.study-area .owl-theme .owl-nav .owl-next:hover i {
   background-color: var(--white-color);
   color: var(--main-color);
 }
@@ -651,13 +655,15 @@ Study Area Style
   height: 100%;
 }
 
-.study-area.study-area-style-two .owl-theme .owl-nav .owl-prev i, .study-area.study-area-style-two .owl-theme .owl-nav .owl-next i {
+.study-area.study-area-style-two .owl-theme .owl-nav .owl-prev i,
+.study-area.study-area-style-two .owl-theme .owl-nav .owl-next i {
   font-size: 20px;
   color: var(--heading-color);
   border: 1px solid var(--heading-color);
 }
 
-.study-area.study-area-style-two .owl-theme .owl-nav .owl-prev:hover i, .study-area.study-area-style-two .owl-theme .owl-nav .owl-next:hover i {
+.study-area.study-area-style-two .owl-theme .owl-nav .owl-prev:hover i,
+.study-area.study-area-style-two .owl-theme .owl-nav .owl-next:hover i {
   background-color: var(--main-color);
   color: var(--white-color);
   border-color: var(--main-color);
@@ -945,7 +951,7 @@ Simple Steps Area Style
   background-color: var(--white-color);
   color: var(--optional-color);
   -webkit-box-shadow: var(--box-shadow);
-          box-shadow: var(--box-shadow);
+  box-shadow: var(--box-shadow);
   position: relative;
   border-radius: 50%;
 }
@@ -958,7 +964,7 @@ Simple Steps Area Style
   width: 100%;
   height: 100%;
   -webkit-box-shadow: -3px 3px 0px 0px rgba(0, 0, 0, 0.9);
-          box-shadow: -3px 3px 0px 0px rgba(0, 0, 0, 0.9);
+  box-shadow: -3px 3px 0px 0px rgba(0, 0, 0, 0.9);
   border-radius: 50%;
   -webkit-transition: var(--transition);
   transition: var(--transition);
@@ -966,7 +972,7 @@ Simple Steps Area Style
 
 .single-simple-steps.icon-bg-style:hover i:after {
   -webkit-box-shadow: 0 3px 0px 0px rgba(0, 0, 0, 0.9);
-          box-shadow: 0 3px 0px 0px rgba(0, 0, 0, 0.9);
+  box-shadow: 0 3px 0px 0px rgba(0, 0, 0, 0.9);
 }
 
 .single-simple-steps i {
@@ -989,7 +995,7 @@ Simple Steps Area Style
 
 .single-simple-steps:hover {
   -webkit-transform: translateY(-5px);
-          transform: translateY(-5px);
+  transform: translateY(-5px);
 }
 
 /*
@@ -1380,9 +1386,9 @@ Single Check Area Style
   cursor: pointer;
   font-size: 14px;
   -webkit-user-select: none;
-     -moz-user-select: none;
-      -ms-user-select: none;
-          user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
   margin-bottom: 25px;
   font-weight: 600;
 }
@@ -1393,16 +1399,16 @@ Single Check Area Style
   cursor: pointer;
 }
 
-.single-check input:checked ~ .checkmark {
+.single-check input:checked~.checkmark {
   background-color: var(--main-color);
   border-color: var(--main-color);
 }
 
-.single-check input:checked ~ .checkmark:after {
+.single-check input:checked~.checkmark:after {
   display: block;
 }
 
-.single-check:hover input ~ .checkmark {
+.single-check:hover input~.checkmark {
   background-color: var(--main-color);
   border-color: var(--main-color);
 }
@@ -1533,7 +1539,7 @@ Counter Area Style
 
 .single-counter:hover {
   -webkit-transform: translateY(-5px);
-          transform: translateY(-5px);
+  transform: translateY(-5px);
 }
 
 /*
@@ -1555,17 +1561,19 @@ Campus Experience Area Style
   margin-top: 0 !important;
 }
 
-.campus-experience-slider.owl-theme .owl-nav .owl-prev, .campus-experience-slider.owl-theme .owl-nav .owl-next {
+.campus-experience-slider.owl-theme .owl-nav .owl-prev,
+.campus-experience-slider.owl-theme .owl-nav .owl-next {
   position: absolute;
   left: -5px;
   top: 50%;
   -webkit-transform: translateY(-12px);
-          transform: translateY(-12px);
+  transform: translateY(-12px);
   margin: 0 5px;
   opacity: 0;
 }
 
-.campus-experience-slider.owl-theme .owl-nav .owl-prev i, .campus-experience-slider.owl-theme .owl-nav .owl-next i {
+.campus-experience-slider.owl-theme .owl-nav .owl-prev i,
+.campus-experience-slider.owl-theme .owl-nav .owl-next i {
   font-size: 20px;
   color: var(--main-color);
   border: 1px solid var(--main-color);
@@ -1577,7 +1585,8 @@ Campus Experience Area Style
   transition: var(--transition);
 }
 
-.campus-experience-slider.owl-theme .owl-nav .owl-prev:hover i, .campus-experience-slider.owl-theme .owl-nav .owl-next:hover i {
+.campus-experience-slider.owl-theme .owl-nav .owl-prev:hover i,
+.campus-experience-slider.owl-theme .owl-nav .owl-next:hover i {
   background-color: var(--main-color);
   color: var(--white-color);
 }
@@ -1591,7 +1600,8 @@ Campus Experience Area Style
   background-color: transparent;
 }
 
-.campus-experience-slider:hover.owl-theme .owl-nav .owl-prev, .campus-experience-slider:hover.owl-theme .owl-nav .owl-next {
+.campus-experience-slider:hover.owl-theme .owl-nav .owl-prev,
+.campus-experience-slider:hover.owl-theme .owl-nav .owl-next {
   opacity: 1;
 }
 
@@ -1683,7 +1693,7 @@ Team Area Style
 .single-team-member .team-content .team-name {
   background: var(--white-color);
   -webkit-box-shadow: var(--box-shadow);
-          box-shadow: var(--box-shadow);
+  box-shadow: var(--box-shadow);
   padding: 20px 20px;
   width: 351px;
   max-width: 100%;
@@ -1751,22 +1761,22 @@ Team Area Style
 
 .single-team-member .team-content .team-social ul li:nth-child(4) a i {
   -webkit-transform: translateY(40px);
-          transform: translateY(40px);
+  transform: translateY(40px);
 }
 
 .single-team-member .team-content .team-social ul li:nth-child(3) a i {
   -webkit-transform: translateY(80px);
-          transform: translateY(80px);
+  transform: translateY(80px);
 }
 
 .single-team-member .team-content .team-social ul li:nth-child(2) a i {
   -webkit-transform: translateY(120px);
-          transform: translateY(120px);
+  transform: translateY(120px);
 }
 
 .single-team-member .team-content .team-social ul li:nth-child(1) a i {
   -webkit-transform: translateY(160px);
-          transform: translateY(160px);
+  transform: translateY(160px);
 }
 
 .single-team-member .team-content .team-social:hover ul {
@@ -1775,27 +1785,27 @@ Team Area Style
 
 .single-team-member .team-content .team-social:hover ul li:nth-child(4) a i {
   -webkit-transform: translateY(0);
-          transform: translateY(0);
+  transform: translateY(0);
 }
 
 .single-team-member .team-content .team-social:hover ul li:nth-child(3) a i {
   -webkit-transform: translateY(0);
-          transform: translateY(0);
+  transform: translateY(0);
 }
 
 .single-team-member .team-content .team-social:hover ul li:nth-child(2) a i {
   -webkit-transform: translateY(0);
-          transform: translateY(0);
+  transform: translateY(0);
 }
 
 .single-team-member .team-content .team-social:hover ul li:nth-child(1) a i {
   -webkit-transform: translateY(0);
-          transform: translateY(0);
+  transform: translateY(0);
 }
 
 .single-team-member:hover {
   -webkit-transform: translateY(-5px);
-          transform: translateY(-5px);
+  transform: translateY(-5px);
 }
 
 /*
@@ -1921,7 +1931,7 @@ Costing Area Style
 
 .single-costing-card:hover {
   -webkit-transform: translateY(-5px);
-          transform: translateY(-5px);
+  transform: translateY(-5px);
 }
 
 /*
@@ -1953,7 +1963,8 @@ Blog Area Style
   z-index: 1;
 }
 
-.single-blog .blog-content::before, .single-blog .blog-content::after {
+.single-blog .blog-content::before,
+.single-blog .blog-content::after {
   content: "";
   position: absolute;
   top: 0;
@@ -1963,14 +1974,14 @@ Blog Area Style
   background-color: var(--white-color);
   z-index: -1;
   -webkit-transform: scaleX(0);
-          transform: scaleX(0);
+  transform: scaleX(0);
   -webkit-transition: var(--transition);
   transition: var(--transition);
 }
 
 .single-blog .blog-content::after {
   -webkit-transform: scaleY(0);
-          transform: scaleY(0);
+  transform: scaleY(0);
 }
 
 .single-blog .blog-content ul {
@@ -2026,28 +2037,39 @@ Blog Area Style
 
 .single-blog:hover .blog-content::before {
   -webkit-transform: scaleX(1);
-          transform: scaleX(1);
+  transform: scaleX(1);
 }
 
 .single-blog:hover .blog-content::after {
   -webkit-transform: scaleY(1);
-          transform: scaleY(1);
+  transform: scaleY(1);
 }
+
 /*# sourceMappingURL=style.css.map */
 
-.blog-area .studys-area .single-study img{
+.blog-area .studys-area .single-study img {
   width: 100%;
 }
-.gallery-area .single-gallery img{
+
+.gallery-area .single-gallery img {
   height: 233px;
   width: 350px;
   object-fit: cover;
 }
-.table-container-div{
+
+.table-container-div {
   overflow-x: scroll;
-  scrollbar-width: none; /* For Firefox */
-  -ms-overflow-style: none; /* For Internet Explorer and Edge */
+  scrollbar-width: none;
+  /* For Firefox */
+  -ms-overflow-style: none;
+  /* For Internet Explorer and Edge */
 }
+
 .table-container-div::-webkit-scrollbar {
-  display: none; /* For Chrome, Safari, and Edge */
+  display: none;
+  /* For Chrome, Safari, and Edge */
+}
+
+.hide-all {
+  display: none;
 }

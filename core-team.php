@@ -71,7 +71,7 @@
 	                        </div>
 
 	                        <div class="team-name">
-	                           <h3>"Dr. Abdul Kareem</h3>
+	                           <h3>Dr. Abdul Kareem</h3>
 	                           <span>Professor and Principal, MITK</span>
 	                        </div>
 	                     </div>
@@ -120,47 +120,6 @@
 	               </div>
 	               <div class="col-lg-3 col-md-6">
 	                  <div class="single-team-member">
-	                     <img src="assets/images/team/Dr-Prathibha-M-Patel.jpg" alt="Dr Prathibha M Patel">
-
-	                     <div class="team-content">
-	                        <div class="team-social" style="display:none;">
-	                           <a href="#" class="control">
-	                              <i class="ri-share-fill"></i>
-	                           </a>
-
-	                           <ul>
-	                              <li>
-	                                 <a href="https://www.facebook.com/" target="_blank">
-	                                    <i class="ri-facebook-fill"></i>
-	                                 </a>
-	                              </li>
-	                              <li>
-	                                 <a href="https://www.instagram.com/" target="_blank">
-	                                    <i class="ri-instagram-line"></i>
-	                                 </a>
-	                              </li>
-	                              <li>
-	                                 <a href="https://www.linkedin.com/" target="_blank">
-	                                    <i class="ri-linkedin-fill"></i>
-	                                 </a>
-	                              </li>
-	                              <li>
-	                                 <a href="https://twitter.com/" target="_blank">
-	                                    <i class="ri-twitter-fill"></i>
-	                                 </a>
-	                              </li>
-	                           </ul>
-	                        </div>
-
-	                        <div class="team-name">
-	                           <h3>Dr. Prathibha M. Patel</h3>
-	                           <span>Dean Academic & Principal IMJISC </span>
-	                        </div>
-	                     </div>
-	                  </div>
-	               </div>
-	               <div class="col-lg-3 col-md-6">
-	                  <div class="single-team-member">
 	                     <img src="assets/images/team/Ms-Amruthmala-Naren-MBA-MITK-Faculty.jpg" alt="Dr Ms Amruthmala Naren MBA MITK Faculty">
 
 	                     <div class="team-content">
@@ -196,6 +155,47 @@
 	                        <div class="team-name">
 	                           <h3>Mrs. Amruthmala</h3>
 	                           <span>Dean - T&P and Industry Relation</span>
+	                        </div>
+	                     </div>
+	                  </div>
+	               </div>
+				   <div class="col-lg-3 col-md-6">
+	                  <div class="single-team-member">
+	                     <img src="assets/images/team/dr suchi.png" alt="Dr Prathibha M Patel">
+
+	                     <div class="team-content">
+	                        <div class="team-social" style="display:none;">
+	                           <a href="#" class="control">
+	                              <i class="ri-share-fill"></i>
+	                           </a>
+
+	                           <ul>
+	                              <li>
+	                                 <a href="https://www.facebook.com/" target="_blank">
+	                                    <i class="ri-facebook-fill"></i>
+	                                 </a>
+	                              </li>
+	                              <li>
+	                                 <a href="https://www.instagram.com/" target="_blank">
+	                                    <i class="ri-instagram-line"></i>
+	                                 </a>
+	                              </li>
+	                              <li>
+	                                 <a href="https://www.linkedin.com/" target="_blank">
+	                                    <i class="ri-linkedin-fill"></i>
+	                                 </a>
+	                              </li>
+	                              <li>
+	                                 <a href="https://twitter.com/" target="_blank">
+	                                    <i class="ri-twitter-fill"></i>
+	                                 </a>
+	                              </li>
+	                           </ul>
+	                        </div>
+
+	                        <div class="team-name">
+	                           <h3>Dr. Suchithra</h3>
+	                           <span>Associate Professor & HOD</span>
 	                        </div>
 	                     </div>
 	                  </div>

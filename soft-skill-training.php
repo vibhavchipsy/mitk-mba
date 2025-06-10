@@ -79,7 +79,7 @@
                </div>
             </section>
 
-      <section class="blog-area  pb-70">
+      <section class="hide-all blog-area  pb-70">
          <div class="container">
             <div class="section-title">
                <h2>What’s New at MITK</h2>
